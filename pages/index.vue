@@ -6,7 +6,7 @@
         CleanNuxt
       </h1>
       <h2 class="subtitle">
-        Ураааааа
+        Урааааааааа
       </h2>
       <div class="links">
         <a
